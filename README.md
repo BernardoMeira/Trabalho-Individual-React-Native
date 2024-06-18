@@ -25,6 +25,21 @@ API feita utilizando springboot e maven para:
 - Cadastro e verificação de login.
 - Banco de dados para jogos inseridos.
 
+Exemplo Login:
+<h3 align="center">
+    <img src="pagina-login.png">
+</h3>
+
+Exemplo Cadastro:
+<h3 align="center">
+    <img src="pagina-cadastro.png">
+</h3>
+
+Exemplo Home:
+<h3 align="center">
+    <img src="pagina-home.png">
+</h3>
+
 ##  Tecnologias utilizadas
 
 - [Visual Studio Code](https://code.visualstudio.com/)
