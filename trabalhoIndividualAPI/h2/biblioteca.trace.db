@@ -1,0 +1,6 @@
+2024-06-18 17:17:41.916251-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRICAO CHARACTER VARYING(255)": "U&'Enter the Gungeon \\00e9 uma aventura em um labirinto com armas de fogo, na qu... (276)"; SQL statement:
+insert into games (descricao,imagem_url,jogo_url,nome,recomendado,valor,id) values (?,?,?,?,?,?,default) [22001-224]
+2024-06-18 17:18:52.377434-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column "DESCRICAO CHARACTER VARYING(255)": "U&'Um simulador de col\\00f4nia de fic\\00e7\\00e3o cient\\00edfica dirigido por um ... (273)"; SQL statement:
+insert into games (descricao,imagem_url,jogo_url,nome,recomendado,valor,id) values (?,?,?,?,?,?,default) [22001-224]
